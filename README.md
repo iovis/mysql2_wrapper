@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/iovis9/mysql2_wrapper.svg?branch=master)](https://travis-ci.org/iovis9/mysql2_wrapper)
-
-# Mysql2Wrapper
+# Mysql2Wrapper [![Build Status](https://travis-ci.org/iovis9/mysql2_wrapper.svg?branch=master)](https://travis-ci.org/iovis9/mysql2_wrapper)
 
 Simple mysql2 wrapper for common tasks
 
